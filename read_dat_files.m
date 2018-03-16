@@ -1,5 +1,4 @@
 clc
-close all
 clear
 
 %% Read in EEG g.Nautilus data from Andrew's systems
